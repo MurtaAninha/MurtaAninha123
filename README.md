@@ -1,6 +1,6 @@
 ### hi there
 Boas vindas ao meu perfil 💙💙
-Meu nome é nome sobrenome
+Ana Soares
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
