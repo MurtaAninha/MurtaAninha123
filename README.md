@@ -9,4 +9,4 @@ Você pode entrar em contato comigo 📫
 alurastartestudante@email.com
 
 @alurastartestudante
-![https://i.gifer.com/XOsX.gif](link)
+![https://i.gifer.com/XOsX.gif]([link](https://i.gifer.com/XOsX.gif))
