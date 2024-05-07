@@ -9,4 +9,5 @@ Você pode entrar em contato comigo 📫
 alurastartestudante@email.com
 
 @alurastartestudante
-![https://i.gifer.com/XOsX.gif]([link](https://i.gifer.com/XOsX.gif))
+[![XOsX](https://github.com/MurtaAninha/MurtaAninha123/assets/169157364/e36ea79d-4cfb-4370-bede-b487eae1920a)
+[link]
